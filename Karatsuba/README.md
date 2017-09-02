@@ -1,0 +1,1 @@
+This is the implementation of the famous  Karatsuba multiplication for multiplication of very large numbers using C++ and its libraries ( string mainly ). Feel free to use this code. :)
